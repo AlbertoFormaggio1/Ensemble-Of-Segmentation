@@ -1,5 +1,7 @@
 # Ensemble Of Segmentation
 
+## WAITING FOR THE PAPER TO BE RELEASED
+
 This repository contains the code used in the research paper: <h3><a href="...."> An empirical study on ensemble of segmentation approaches </a></h3>
 <h4> Authors: </h4> Loris Nanni, Alessandra Lumini, Andrea Loreggia, Alberto Formaggio and Daniela Cuza
 <br>
