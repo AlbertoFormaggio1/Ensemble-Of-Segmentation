@@ -8,4 +8,4 @@ In particular, my contribution is related to the realization of new loss functio
 <br><br>
 In the folder <a href="/LossFunctions">LossFunctions</a> you can find the loss functions that were used in the ensembles after testing which ones performed better on a ResNet-10 (I had to use ResNet-10 due to the limited computing power available in the computer I was using for debugging).<br><br>
 However, I developed more loss than the ones used in the paper (discarded due to the lower accuracy they had compared to the other ones).<br>
-All the loss that were developed can be found in the folder <a href="/MyLossFunctions">MyLossFunctions</a>
+All the loss that were developed can be found in the folder <a href="/NewLoss">NewLoss</a>
